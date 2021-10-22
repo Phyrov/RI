@@ -34,6 +34,9 @@ Programa que extrae información de distintos documentos que cuelgan de un direc
 
 * -t → CSV con la frecuencia de los términos en orden decreciente
 
+# Práctica 2: Preprocesado de documentos. Análisis de texto
+
+
 ## Autores ✒️
 
 * **Francisco Lara Marín**
