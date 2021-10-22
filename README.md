@@ -1,4 +1,5 @@
 # Recuperación de Información (RI)
+# Práctica 1: Preprocesado de documentos
 ### Pre-Requisitos 📋
 
 - _Visual Studio Code_
@@ -23,7 +24,6 @@ _Ejecutar con:_
 java -cp .\tika-app-2.1.0.jar .\src\App.java archivos
 ```
 
-# Práctica 1: Preprocesado de documentos
 > Parser de documentos con TIKA
 
 Programa que extrae información de distintos documentos que cuelgan de un directorio. Genera distintas salidas en función del parámetro de entrada.
